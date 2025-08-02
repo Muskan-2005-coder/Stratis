@@ -30,5 +30,4 @@ A real-time, modular voice assistant built using event-driven architecture and t
 
 ---
 
-   git clone https://github.com/your-username/voice-assistant.git
-   cd voice-assistant
+   
